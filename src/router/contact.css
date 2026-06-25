@@ -1,0 +1,70 @@
+.contact-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+        url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.contact-hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.contact-hero p {
+    font-size: 18px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.contact-section {
+    padding: 70px 0;
+    background-color: #f8f9fa;
+}
+
+.contact-card {
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    height: 100%;
+}
+
+.contact-card h2 {
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.contact-info {
+    margin-bottom: 22px;
+}
+
+.contact-info h5 {
+    font-weight: bold;
+    color: #0d6efd;
+    margin-bottom: 5px;
+}
+
+.contact-info p {
+    margin: 0;
+    color: #555;
+}
+
+.contact-box {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #eaf4ff;
+    border-radius: 14px;
+}
+
+.contact-box h4 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.contact-box p {
+    margin: 0;
+    color: #555;
+}
